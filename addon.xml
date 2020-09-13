@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="repository.venom" name="[COLOR red]venom[/COLOR] Repository" version="1.9" provider-name="venom">
+<addon id="repository.venom" name="[COLOR red]vinfinity[/COLOR] Repository" version="1.9" provider-name="venom">
 	<extension point="xbmc.addon.repository" name="Venom Repo">
 
 		<dir>
